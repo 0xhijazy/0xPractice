@@ -2,11 +2,11 @@
 
 # ⚡ 0xPractice
 
-**`>_ security research & exploit development`**
+**`>_ learning security & programming`**
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-Research-red.svg)]()
+[![Learning](https://img.shields.io/badge/Learning-C-yellow.svg)]()
+[![Age](https://img.shields.io/badge/Age-16-orange.svg)]()
 
 </div>
 
@@ -17,35 +17,7 @@
 ```bash
 0xPractice/
 ├── python/          # Python scripts
-├── security/        # Security tools & exploits  
+├── security/        # Security tools
 ├── algorithms/      # DSA practice
 └── c/              # C programs
-```
 
-## 🛠️ Technologies
-
-| Category | Technologies |
-|----------|-------------|
-| Languages | Python, C |
-| Security | Exploit Dev, Pentesting |
-| Tools | gdb, nmap, Metasploit |
-
-## 🎯 Goals
-
-- [ ] Python & C
-- [ ] Write custom exploits
-- [ ] Build security tools
-
-## ⚠️ Disclaimer
-
-> **Educational purposes only**  
-> All code tested on authorized systems
-
-## 📫 Connect
-
-
----
-
-<div align="center">
-⭐ Star this repo if you find it useful
-</div>
