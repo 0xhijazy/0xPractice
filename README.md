@@ -15,9 +15,17 @@
 ## 📁 Structure
 
 ```bash
+
 0xPractice/
 ├── python/          # Python scripts
 ├── security/        # Security tools
 ├── algorithms/      # DSA practice
 └── c/              # C programs
 
+```
+
+---
+
+## 📫 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-0xhijazy-black)](https://github.com/0xhijazy)
