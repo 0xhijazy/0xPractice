@@ -6,12 +6,13 @@ My coding playground for everything I learn:
 - 📐 Algorithms & math
 - 💻 C programming
 
-## Structure
-0xPractice/
-├── python/ # Python scripts
-├── security/ # Security tools & exploits
-├── algorithms/ # DSA practice
-├── c/ # C programs
+ 
+| Directory | Description |
+| `python/` | Python scripts |
+| `security/` | Security tools & exploits |
+| `algorithms/` | DSA practice |
+| `c/` | C programs |
+
 
 ## Disclaimer
 Educational purposes only.
