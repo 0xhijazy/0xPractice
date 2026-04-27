@@ -6,6 +6,7 @@ My coding playground for everything I learn:
 - 📐 Algorithms & math
 - 💻 C programming
 
+## Structure
  
 | Directory | Description |
 | `python/` | Python scripts |
