@@ -17,7 +17,7 @@
 ```bash
 
 0xPractice/
-├── python/          # Python scripts
+├── python/          # Python programs
 ├── security/        # Security tools
 ├── algorithms/      # DSA practice
 └── c/              # C programs
