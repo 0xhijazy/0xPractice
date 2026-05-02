@@ -95,7 +95,7 @@ Some features require Instagram account login (coming soon)
 
 ## Author
 
-**0xhijazy** - Security Researcher
+**0xhijazy** 
 
 [![GitHub](https://img.shields.io/badge/GitHub-0xhijazy-black)](https://github.com/0xhijazy)
 
