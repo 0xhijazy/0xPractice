@@ -105,4 +105,4 @@ Some features require Instagram account login (coming soon)
 Made with 🐍 by 0xhijazy
 
 Last updated: 2026
-</div> ```
+</div>
